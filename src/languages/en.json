@@ -1,0 +1,13 @@
+{
+  "badRequest": "Bad request",
+  "unauthenticated": "Invalid authentication credentials",
+  "forbidden": "Forbidden",
+  "unprocessable": "Unable to process the request",
+  "serverError": "Internal server error",
+  "validationError": "Validation error",
+  "auth": {
+    "credentialRequired": "Name and password are required",
+    "invalidCredential": "Invalid name or password",
+    "userAlreadyExists": "User already exists"
+  }
+}
