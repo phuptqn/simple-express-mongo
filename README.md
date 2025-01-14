@@ -11,7 +11,7 @@ A lightweight Node.js source base using ExpressJS and MongoDB.
 - **File Upload**: Middleware with Multer
 - **Env**: Node built-in support
 - **Tests**: Jest + Supertest with coverage
-- **Linter/Formatter**: ESLint + Prettier auto-format
+- **Linter/Formatter**: ESLint + Prettier auto-format with pre-commit Git hook
 - **Security**: express-rate-limit/helmet
 
 ## Prerequisites
