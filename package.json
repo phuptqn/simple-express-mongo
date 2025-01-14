@@ -1,7 +1,14 @@
 {
   "name": "simple-express-mongo",
   "version": "1.0.0",
-  "description": "Simple ExpressJS MongoDB boilerplate",
+  "description": "A starter project for Node.js with Express.js and MongoDB",
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "boilerplate",
+    "starter-template"
+  ],
   "author": "PhuPT",
   "license": "MIT",
   "main": "server.js",

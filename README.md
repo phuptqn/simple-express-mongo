@@ -1,6 +1,6 @@
 # simple-express-mongo
 
-A lightweight Node.js source base using ExpressJS and MongoDB.
+A starter project for Node.js with Express.js and MongoDB.
 
 ## Features
 - **Authentication**: JWT
